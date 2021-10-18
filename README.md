@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋:octocat:
 
+
+
+
+**About me:**    
 
 :point_right: During 2020, I became very interested :mag_right: in code and tech, learning on my own via tutorials and videos on Youtube among others :seedling:. 
 
@@ -30,10 +34,20 @@ It is time :bellhop_bell: for me and my team :family_man_man_girl_boy: to work o
 
 More on this next episode, presentation on Youtube scheduled for November 19, 2021 :date::pushpin: 
 
---- 
 
 NB: project to develop a mobile application :iphone: in no-code (Adalo, Carrd, Bubble), during 2022 :round_pushpin::dart::rocket:
 
+--- 
+
+**#Thinking** :thought_balloon: :bulb:
+
+>"Change your life by consciously choosing who you surround yourself with.
+
+>Build your inner circle with people who lift you up :up:, lend you knowledge and help you learn from your mistakes. The truth is, if you want to GROW, you've got to be around people who CHALLENGE you to RAISE YOUR STANDARDS.
+
+>Fill your life with people who will never let you settle for less than you can BE, DO, or GIVE and you will have the greatest gift that anyone can hope for."  
+
+>Tony Robbins
 <!--
 **SYB-SFLA/SYB-SFLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
