@@ -25,17 +25,18 @@ After 3 months :hourglass_flowing_sand: of learning the basics of web developmen
 - MVC architecture - Model View Controller
 - DataMapper/ Active Record, ORM Sequelize, EJS/PUG
 - PostgreSQL database, MongoDB, Sqitch
-- GraphQL, Redis
 - Validator Joi, Regex
 - Hosting platform AWS / Heroku / Firebase
 
 
-It is time :bellhop_bell: for me and my team :family_man_man_girl_boy: to work on a project :card_index_dividers: that takes up all our learning :fire:.   
+During one month, my team and I designed a web application to consolidate our knowledge and skills. 
+It's about the following repository: https://github.com/SYB-SFLA/oprojetheque
 
-More on this next episode, presentation on Youtube scheduled for November 19, 2021 :date::pushpin: 
+My current goal 🎯: to learn React to complete my training 💻 .
 
+However, I am open to work opportunities 👩‍💻 🔌 in France :fr or Canada 🇨🇦 .
 
-NB: project to develop a mobile application :iphone: in no-code (Adalo, Carrd, Bubble), during 2022 :round_pushpin::dart::rocket:
+NB: project to develop a mobile application 📱 in no-code (Adalo) during 2022 :round_pushpine: :dart::rocket:
 
 --- 
 
